@@ -1,0 +1,9 @@
+{
+  "name": "ngterm.js",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {},
+  "dependencies": {
+    "xterm": "^3.3.0"
+  }
+}
